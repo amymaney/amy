@@ -5,6 +5,10 @@ body {
     font-family: 'Nunito', sans-serif;
     font-weight: 50px;
   }
+
+  p {
+    color: white;
+  }
   
   h1 {
     font-family: 'Montserrat', sans-serif;
@@ -21,9 +25,9 @@ body {
     
     color: rgb(188, 202, 214);
     text-align: center;
-    font-size: 20px;
-    font-weight: 50;
-    font-style: normal;
+    font-size: 35px;
+    font-weight: 100;
+    font-style: italic;
   }
 
   .navbar-brand
@@ -39,5 +43,13 @@ body {
 
   button:hover {
     background-color: rgb(44, 44, 44);
+  }
+
+  .tictactoelink {
+    color: white;
+  }
+
+  .tictactoelink:hover {
+    color: rgb(202, 177, 231);
   }
  
