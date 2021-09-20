@@ -1,0 +1,41 @@
+
+.grid {
+    display: grid;
+    grid-template-columns: 150px 150px 150px;
+    grid-template-rows: 150px 150px 150px;
+    grid-row-gap: 8px;
+    grid-column-gap: 8px;
+    justify-content: center;
+}
+
+body {
+    justify-content: center;
+}
+
+.box {
+    border: 1px solid rgb(168, 142, 190);
+    align-items: center;
+    justify-content: center;
+    background: rgb(73, 73, 112);
+    border-radius: 3%;
+}
+
+h3 {
+
+    color: rgb(188, 202, 214);
+    text-align: center;
+    font-size: 30px;
+    font-weight: 100;
+    font-style: bold;
+
+}
+
+.restartbutton {
+    border-radius: 10%;
+    background-color: rgb(195, 199, 216);
+    
+}
+
+.restartbutton:hover {
+    background-color: rgb(162, 167, 190);
+}

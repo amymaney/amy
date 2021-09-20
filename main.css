@@ -17,15 +17,15 @@ body {
     text-align: center;
     padding: 20px;
     font-size: 48px;
-    font-style: normal;
-    font-weight: 300;
+    font-style: bold;
+    font-weight: 600;
   }
 
   h2 {
     
     color: rgb(188, 202, 214);
     text-align: center;
-    font-size: 35px;
+    font-size: 20px;
     font-weight: 100;
     font-style: italic;
   }
@@ -45,11 +45,35 @@ body {
     background-color: rgb(44, 44, 44);
   }
 
-  .tictactoelink {
-    color: white;
+  
+
+  .sidelink:hover {
+    color: rgb(180, 147, 218);
   }
 
-  .tictactoelink:hover {
+  .sidelink {
     color: rgb(202, 177, 231);
+    text-decoration: none;
+    
+  }
+
+  hr {
+    color: rgb(207, 191, 221);
+    
   }
  
+  .sidenav {
+    height:auto;
+    width:120px;
+    position: fixed;
+    z-index: 1;
+    left:0;
+    background-color: rgb(44, 44, 71);
+    padding: 10px;
+    overflow-x: hidden;
+  }
+
+  .main {
+    margin-left:140px;
+    padding-right: 20px;
+  }
