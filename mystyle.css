@@ -1,0 +1,13 @@
+body {
+    background: rgb(34, 34, 58);
+  }
+  
+  h1 {
+    color: rgb(255, 255, 255);
+    text-align: center;
+  }
+
+  p {
+    color: rgb(188, 202, 214);
+    text-align: center;
+  }
