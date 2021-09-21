@@ -9,6 +9,19 @@ body {
   p {
     color: white;
   }
+
+
+  
+  .footer{
+    margin:0;
+    padding:10px;
+    overflow:auto;
+    }
+  
+    .github {
+      width: 30px;
+      height: 30px;
+    }
   
   h1 {
     font-family: 'Montserrat', sans-serif;
