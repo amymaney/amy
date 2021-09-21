@@ -11,7 +11,10 @@ body {
   }
 
   
-  
+  .avatar  {
+    height:150px;
+    margin: 10px;
+  }
 
   #footer {
     text-align: center;
@@ -20,6 +23,13 @@ body {
   .socialmedia {
     display: inline-block;
     height:30px;
+    margin-left:10px;
+    margin-bottom: 0.5em;
+    margin-top: 30px;
+  }
+
+  .mainbody {
+    display: inline-block;
   }
   
   
