@@ -31,8 +31,6 @@
         padding-right: 5px;
     }
 
-    
-  
     .nav a {
         position: sticky;
         float: right;
@@ -64,9 +62,9 @@
         text-decoration: none;
         font-size: 18px;
       }
-      
+
     .socialmedia {
-        height:28px;
+        height:30px;
       }
 
     
