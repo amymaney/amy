@@ -1,0 +1,87 @@
+@media screen and (min-width:701px) and (max-width:999px) {
+    p {
+        font-size: 18px;
+      }
+
+    .nav {
+        white-space: normal;
+        background: transparent;
+        height: auto;
+        width: 100px;
+        position:fixed;
+        z-index: 1;
+        overflow-x: hidden;
+        padding-top: 2px;
+        left:1px;
+        top:55px;
+        right:1px;
+        margin-left: 30px;
+    
+    }
+
+    h1 {
+        background-color: rgb(44, 44, 71);
+        color: rgb(231, 231, 231);
+        text-align: center;
+        padding: 20px;
+        font-size: 80px;
+        font-style: bold;
+        
+      }
+
+    .column {
+        padding-right: 40px;
+        padding-left: 115px;
+        float: right;
+        width: 90%;
+      }
+  
+    .column1 {
+        float: right;
+        width: 10%;
+      }
+  
+    .nav a {
+        position: sticky;
+        float: right;
+      }
+  
+    .maincontent {
+        text-align: center;
+        margin-left:120px;
+        margin-right: 60px;
+      }
+
+    h2 {
+    
+        color: rgb(132, 150, 165);
+        text-align: center;
+        font-size: 36px;
+        font-weight: 100;
+        font-style: italic;
+        
+      }
+
+    .avatar  {
+        height:150px;
+        margin: 10px;
+      }
+
+    .nav a {
+        display: block;
+        padding: 0.3rem 1rem;
+        color:rgb(169, 255, 236);
+        text-decoration: none;
+        font-size: 20px;
+      }
+
+    .column2 {
+        width:25%;
+        float:right;
+        margin-left: 1px;
+      }
+
+    .socialmedia {
+        height:20px;
+      }
+}
