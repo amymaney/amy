@@ -1,4 +1,4 @@
-@media screen and (max-width:699px) {
+@media screen and (max-width:500px) {
 
     p {
         font-size: 15px;
@@ -31,17 +31,7 @@
         padding-right: 5px;
     }
 
-    .column {
-        padding-left: 115px;
-        float: right;
-        width: 90%;
-      }
-  
-    .column1 {
-        float: right;
-        width: 10%;
-        padding-left: 10px;
-      }
+    
   
     .nav a {
         position: sticky;
@@ -74,20 +64,10 @@
         text-decoration: none;
         font-size: 18px;
       }
-
-    .column2 {
-        width:25%;
-        float:right;
-        margin-left: 1px;
-      }
-
+      
     .socialmedia {
-        height:17px;
-        padding-left:10px;
-        padding-right:20px;
+        height:28px;
       }
 
-    .row2 {
-        margin-left: 31px;
-    }
+    
 }

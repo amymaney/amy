@@ -1,4 +1,4 @@
-@media screen and (min-width:700px) and (max-width:899px) {
+@media screen and (min-width:501px) and (max-width:999px) {
     p {
         font-size: 18px;
       }
@@ -30,18 +30,6 @@
       }
 
 
-    .column {
-        float: right;
-        width: 90%;
-        padding-left: 100px;
-        
-      }
-  
-    .column1 {
-        float: right;
-        width: 10%;
-        padding-right: 10px;
-      }
   
     .nav a {
         position: sticky;
@@ -79,14 +67,10 @@
         font-size: 20px;
       }
 
-    .column2 {
-        width:25%;
-        float:right;
-        margin-left: 1px;
-      }
+    
 
     .socialmedia {
-        height:20px;
+        height:32px;
       }
 
     
