@@ -13,10 +13,6 @@ body {
     text-align: left;
   }
 
-  #footer {
-    text-align: center;
-  }
-
   .row2::after {
     content:"";
     display: table;

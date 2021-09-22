@@ -1,4 +1,4 @@
-@media screen and (max-width:700px) {
+@media screen and (max-width:699px) {
 
     p {
         font-size: 15px;
@@ -13,17 +13,16 @@
         z-index: 1;
         overflow-x: hidden;
         left:1px;
-        top:48px;
+        top:170px;
         margin-left: 10px;
     
     }
 
     h1 {
-        background-color: rgb(44, 44, 71);
         color: rgb(231, 231, 231);
         text-align: center;
         padding: 25px;
-        font-size: 60px;
+        font-size: 66px;
         font-style: bold;
         
       }
@@ -41,6 +40,7 @@
     .column1 {
         float: right;
         width: 10%;
+        padding-left: 10px;
       }
   
     .nav a {

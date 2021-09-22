@@ -1,6 +1,6 @@
-@media screen and (min-width:1000px) {
+@media screen and (min-width:900px) {
     p {
-        font-size: 10px;
+        font-size: 18px;
       }
 
     .nav {
@@ -13,20 +13,19 @@
         overflow-x: hidden;
         padding-top: 2px;
         left:1px;
-        top:30px;
+        top:200px;
         right:1px;
         margin-left: 30px;
     
     }
 
     h1 {
-        background-color: rgb(44, 44, 71);
+     
         color: rgb(231, 231, 231);
         text-align: center;
         padding: 20px;
         font-size: 100px;
         font-style: bold;
-        
       }
 
     .column {
@@ -50,20 +49,25 @@
         text-align: center;
         margin-left:120px;
         margin-right: 60px;
+        
       }
+
+    .stuff{
+        width: 900px;
+    }
 
     h2 {
     
         color: rgb(132, 150, 165);
         text-align: center;
-        font-size: 25px;
+        font-size: 34px;
         font-weight: 100;
         font-style: italic;
         
       }
 
     .avatar  {
-        height:150px;
+        height:180px;
         margin: 10px;
       }
 
