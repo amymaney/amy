@@ -13,7 +13,7 @@
         z-index: 1;
         overflow-x: hidden;
         left:1px;
-        top:170px;
+        top:300px;
         margin-left: 10px;
     
     }
@@ -55,9 +55,7 @@
         height:30px;
       }
 
-    
-
-    
+  
     #home {
       text-align: center;
     }
