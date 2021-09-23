@@ -1,8 +1,8 @@
 @media screen and (max-width:630px) {
 
-    p {
-        font-size: 17px;
-      }
+    .row{
+      font-size: 17px;
+    }
 
     .nav {
         white-space: normal;
@@ -82,5 +82,36 @@
       width:350px;
       padding-left: 100px;
     }
+
+    .aboutcontent {
+      display:grid;
+      grid-template-rows: auto;
+      grid-template-columns: auto 100px;
+      
+    }
+
+    .introabout{
+      text-align: center;
+    }
+  
+    .amypicture{
+      width:90px;
+      border-radius: 30px;
+
+    }
+  
+   .amy {
+     align-self: center;
+     justify-self: end;
+   }
+
+   .aboutcontent1{
+     font-size: 14px;
+   }
+
+   .aboutcontent2{
+     font-size: 16px;
+   }
+    
 
 }

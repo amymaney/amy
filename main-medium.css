@@ -77,5 +77,19 @@
       padding-top: 40px;
       padding-bottom: 40px;
     }
+
+    .aboutcontent {
+      display:grid;
+      grid-template-rows: auto;
+      grid-template-columns: auto 150px;
+      
+    }
+  
+    .amypicture{
+      width:150px;
+      border-radius: 30px;
+    }
+
+    
     
 }
