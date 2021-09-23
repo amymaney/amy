@@ -1,7 +1,7 @@
-@media screen and (max-width:500px) {
+@media screen and (max-width:630px) {
 
     p {
-        font-size: 18px;
+        font-size: 17px;
       }
 
     .nav {
@@ -27,26 +27,12 @@
         
       }
 
-    .row {
-        padding-right: 5px;
-    }
-
-    .nav a {
-        position: sticky;
-        float: right;
-      }
-  
-    .maincontent {
-        text-align: center;
-        margin-left:120px;
-        margin-right: 60px;
-      }
+    
 
     h2 {
         color: rgb(132, 150, 165);
         text-align: center;
-        font-size: 28px;
-        font-weight: 100;
+        font-size: 25px;
         font-style: italic;
         
       }
@@ -58,14 +44,29 @@
     .nav a {
         display: block;
         padding: 0.3rem 1rem;
-        color:rgb(169, 255, 236);
+        color:rgb(171, 212, 250);
         text-decoration: none;
         font-size: 18px;
+        position: sticky;
+        float: right;
       }
 
     .socialmedia {
         height:30px;
       }
 
+    .stuff{
+      width:330px;
+    }
+
     
+    #home {
+      text-align: center;
+    }
+
+    #about {
+      text-align: left;
+    }
+    
+
 }

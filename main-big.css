@@ -14,7 +14,6 @@
         padding-top: 2px;
         left:1px;
         top:200px;
-        right:1px;
         margin-left: 30px;
     
     }
@@ -30,30 +29,26 @@
 
     .column {
         padding-right: 40px;
-        padding-left: 115px;
+        padding-left: 100px;
         float: right;
         width: 90%;
+        
       }
   
     .column1 {
         float: right;
         width: 10%;
-      }
-  
-    .nav a {
-        position: sticky;
-        float: right;
+        
       }
   
     .maincontent {
         text-align: center;
-        margin-left:120px;
-        margin-right: 60px;
+
         
       }
 
     .stuff{
-        width: 900px;
+        width: 725px;
     }
 
     h2 {
@@ -61,25 +56,32 @@
         color: rgb(132, 150, 165);
         text-align: center;
         font-size: 34px;
-        font-weight: 100;
         font-style: italic;
       }
 
     .avatar  {
         height:180px;
-        margin: 10px;
+        margin:10px;
       }
 
     .nav a {
         display: block;
         padding: 0.3rem 1rem;
-        color:rgb(169, 255, 236);
+        color:rgb(171, 212, 250);
         text-decoration: none;
         font-size: 20px;
+        position: sticky;
+        float: right;
       }
 
     .socialmedia {
         height:30px;
       }
+
+      #about {
+        text-align: left;
+      }
+
+
 
 }

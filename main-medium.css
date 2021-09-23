@@ -1,4 +1,4 @@
-@media screen and (min-width:501px) and (max-width:999px) {
+@media screen and (min-width:631px) and (max-width:999px) {
     p {
         font-size: 18px;
       }
@@ -14,7 +14,6 @@
         padding-top: 2px;
         left:1px;
         top:188px;
-        right:1px;
         margin-left:30px;
     
     }
@@ -26,52 +25,45 @@
         padding-top: 20px;
         font-size: 80px;
         font-style: bold;
-        
-      }
-
-
-  
-    .nav a {
-        position: sticky;
-        float: right;
       }
   
-    .maincontent {
-        text-align: center;
-        margin-left:120px;
-        margin-right: 60px;
-      }
-
-    
-
     h2 {
-    
         color: rgb(132, 150, 165);
-        text-align: center;
-        font-size: 33px;
-        font-weight: 100;
+        font-size: 30px;
         font-style: italic;
-        
       }
 
     .avatar  {
         height:150px;
-        margin: 10px;
+        
       }
 
     .nav a {
         display: block;
         padding: 0.3rem 1rem;
-        color:rgb(169, 255, 236);
+        color:rgb(171, 212, 250);
         text-decoration: none;
         font-size: 20px;
+        position: sticky;
+        float: right;
       }
-
-    
 
     .socialmedia {
         height:30px;
       }
 
+    .stuff {
+      width: 400px;
+     
+    }
+
+    
+    #home {
+      text-align: center;
+    }
+
+    #about {
+      text-align: left;
+    }
     
 }

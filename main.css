@@ -10,7 +10,7 @@ body {
 
   p {
     color: white;
-    text-align: left;
+    
   }
 
   .row2::after {
@@ -32,9 +32,9 @@ body {
   }
 
   .nav a.active {
-    color: rgb(0, 255, 179);
+    color: rgb(0, 204, 255);
   }
 
   .nav a:hover {
-    color: rgb(108, 177, 162);
+    color: rgb(88, 255, 219);
   }
