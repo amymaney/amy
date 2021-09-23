@@ -8,7 +8,7 @@
         white-space: normal;
         background: transparent;
         height: auto;
-        width: 82px;
+        width: 110px;
         position:fixed;
         z-index: 1;
         overflow-x: hidden;
@@ -37,8 +37,9 @@
         
       }
 
-    .avatar  {
+    #avatar  {
         height:130px;
+        
       }
 
     .nav a {
@@ -58,14 +59,28 @@
   
     #home {
       text-align: center;
+      padding-bottom: 30px;
     }
 
     #about {
       text-align: left;
+      padding-top: 30px;
+      padding-bottom: 30px;
+    }
+
+    #projects {
+      padding-top: 30px;
+      padding-bottom: 30px;
+    }
+
+    #content {
+      padding-top: 30px;
+      padding-bottom: 30px;
     }
     
     .maincontent {
       width:350px;
       padding-left: 100px;
     }
+
 }

@@ -7,7 +7,7 @@
         white-space: normal;
         background: transparent;
         height: auto;
-        width: 100px;
+        width: 120px;
         position:fixed;
         z-index: 1;
         overflow-x: hidden;
@@ -31,13 +31,13 @@
         padding-right: 40px;
         padding-left: 100px;
         float: right;
-        width: 90%;
+        width: 85%;
         
       }
   
     .column1 {
         float: right;
-        width: 10%;
+        width: 15%;
         
       }
   
@@ -59,9 +59,10 @@
         font-style: italic;
       }
 
-    .avatar  {
+    #avatar  {
         height:180px;
         margin:10px;
+        
       }
 
     .nav a {
@@ -78,8 +79,24 @@
         height:30px;
       }
 
+      #home {
+        padding-bottom: 40px;
+      }
+
       #about {
         text-align: left;
+        padding-top: 40px;
+        padding-bottom: 40px;
+      }
+
+      #projects {
+        padding-top: 40px;
+        padding-bottom: 40px;
+      }
+  
+      #content {
+        padding-top: 40px;
+        padding-bottom: 40px;
       }
 
 
