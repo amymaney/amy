@@ -49,3 +49,24 @@ body {
     color:rgb(136, 136, 197);
     text-align: center;
   }
+  
+  #mailicon {
+    font-size: 50px;
+    color: white;
+  }
+
+  #mailicon:hover{
+    color: rgb(88, 255, 219);
+  }
+
+  .contactlinks{
+    text-decoration: none;
+    color: rgb(132, 255, 228);
+  }
+
+  .contactlinks:hover{
+    text-decoration: none;
+    color: rgb(39, 163, 136);
+  }
+
+  
