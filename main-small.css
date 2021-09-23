@@ -67,6 +67,7 @@
     }
     
     .maincontent {
-      width:230px;
+      width:300px;
+      padding-left: 100px;
     }
 }
