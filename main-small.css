@@ -55,10 +55,7 @@
         height:30px;
       }
 
-    .stuff{
-      width:300px;
-      
-    }
+    
 
     
     #home {
@@ -70,6 +67,6 @@
     }
     
     .maincontent {
-      padding-left: 50px;
+      width:300px;
     }
 }
