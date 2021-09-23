@@ -56,7 +56,8 @@
       }
 
     .stuff{
-      width:280px;
+      width:300px;
+      
     }
 
     
@@ -68,5 +69,7 @@
       text-align: left;
     }
     
-
+    .maincontent {
+      padding-left: 50px;
+    }
 }
