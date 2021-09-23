@@ -30,11 +30,16 @@
     
 
     h2 {
-        color: rgb(132, 150, 165);
+        color: rgb(137, 176, 207);
         text-align: center;
         font-size: 25px;
         font-style: italic;
         
+      }
+
+      h3{
+        color: rgb(132, 150, 165);
+        font-size: 21px;
       }
 
     #avatar  {
@@ -112,6 +117,102 @@
    .aboutcontent2{
      font-size: 16px;
    }
+
+   .skills{
+    text-align: center;
+    padding-top: 20px;
+
+  }
+
+  .skillbars{
+    display: grid;
+    grid-template-columns: 80px auto;
+    grid-template-rows: auto auto auto auto auto auto auto;
+    row-gap:5px;
+    font-size: 19px;
+    
+  }
+
+  .C{
+    justify-self: start;
+  }
+
+  .Cplusplus{
+    justify-self: start;
+  }
+
+  .Csharp{
+    justify-self: start;
+  }
+
+  .python{
+    justify-self: start;
+  }
+
+  .fusion{
+    justify-self: start;
+    font-size: 17px;
+  }
+  
+  .spanish{
+    justify-self: start;
+    
+  }
+  .khmer{
+    justify-self: start;
+   
+  }
+  
+
+  .Clevel{
+    background: linear-gradient(to right, rgb(108, 216, 193) 55%, rgb(65, 70, 121) 30%);
+    border-radius: 16px;
+    height: 21px;
+    margin-left:12px;
+  }
+
+  .Cpluspluslevel{
+    background: linear-gradient(to right, rgb(108, 216, 193) 60%, rgb(65, 70, 121) 35%);
+    border-radius: 16px;
+    height: 21px;
+    margin-left:12px;
+  }
+  
+  .Csharplevel{
+    background: linear-gradient(to right, rgb(108, 216, 193) 70%, rgb(65, 70, 121) 30%);
+    border-radius: 16px;
+    height: 21px;
+    margin-left:12px;
+  }
+
+  .pythonlevel{
+    background: linear-gradient(to right, rgb(108, 216, 193) 70%, rgb(65, 70, 121) 30%);
+    border-radius: 16px;
+    height: 21px;
+    margin-left:12px;
+  }
+
+  .fusionlevel{
+    background: linear-gradient(to right, rgb(108, 216, 193) 35%, rgb(65, 70, 121) 30%);
+    border-radius: 16px;
+    height: 21px;
+    margin-left:12px;
+  }
+
+  .khmerlevel{
+    background: linear-gradient(to right, rgb(108, 216, 193) 70%, rgb(65, 70, 121) 0%);
+    border-radius: 16px;
+    height: 21px;
+    margin-left:12px;
+  }
+
+  .spanishlevel{
+    background: linear-gradient(to right, rgb(108, 216, 193) 25%, rgb(65, 70, 121) 0%);
+    border-radius: 16px;
+    height: 21px;
+    margin-left:12px;
+  }
+  
     
 
 }
