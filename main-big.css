@@ -223,6 +223,7 @@
         border-radius: 16px;
         height: 25px;
         margin-left:12px;
+        margin-bottom: 40px;
       }
   
       .spanishlevel{
@@ -230,6 +231,13 @@
         border-radius: 16px;
         height: 25px;
         margin-left:12px;
+      }
+
+      .cvlink {
+        font-size: 22px;
+        text-decoration: none;
+        color: rgb(171, 212, 250);
+      
       }
       
 }
